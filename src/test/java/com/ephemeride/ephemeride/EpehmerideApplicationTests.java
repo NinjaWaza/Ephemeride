@@ -1,4 +1,4 @@
-package com.ephemeride.epehmeride;
+package com.ephemeride.ephemeride;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
